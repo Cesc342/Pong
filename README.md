@@ -1,2 +1,2 @@
 # Pong
-The CPU does'nt work yet
+El CPU no funciona aun.
